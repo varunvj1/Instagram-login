@@ -45,24 +45,24 @@ body {
 }
 @keyframes slider {
   0% {
-    background-image: url("pic2.jpeg");
+    background-image: url("Pictures/pic2.jpeg");
   }
 
   20% {
-    background-image: url("pic7.jpg");
+    background-image: url("Pictures/pic7.jpg");
   }
 
   40% {
-    background-image: url("pic4.jpg");
+    background-image: url("Pictures/pic4.jpg");
   }
   60% {
-    background-image: url("pic5.jpg");
+    background-image: url("Pictures/pic5.jpg");
   }
   80% {
-    background-image: url("pic6.jpg");
+    background-image: url("Pictures/pic6.jpg");
   }
   100% {
-    background-image: url("pic8.jpg");
+    background-image: url("Pictures/pic8.jpg");
   }
 } /* Animation end */
 
